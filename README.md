@@ -150,11 +150,12 @@ My work combines **AI research, software engineering, and MLOps**, with technolo
 
 ---
 
-## ⭐ Interests  
-- Generative AI, NLP, Deep Learning  
-- Aviation & simulation  
-- Data visualization  
-- Complex systems analysis  
-- Scientific research  
+## ⭐ Interests
+- Generative AI, LLMs & NLP
+- RAG, GraphRAG & AI Agents
+- Knowledge Graphs & Semantic AI
+- Deep Learning & Computer Vision
+- MLOps & AI Engineering
+- Scientific research & emerging AI technologies 
 
 
