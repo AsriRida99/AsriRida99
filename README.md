@@ -3,11 +3,11 @@
 </p>
 
 # 👋 Hi, I'm **Rida ASRI**
-### 💡 *Data Scientist & Machine Learning Engineer — AI, NLP, Deep Learning, Graph Intelligence*
+### 💡 *AI Engineer — Generative AI, LLM, RAG & AI Agents*
 
-Passionate about artificial intelligence, deep learning, and software engineering, I build innovative solutions combining **data analysis**, **advanced AI models**, **web engineering**, and **decision-support systems**.
+AI Engineer specialized in **Generative AI, Large Language Models (LLMs), RAG, AI Agents, and Knowledge Graphs**. I build end-to-end AI solutions combining **LLM fine-tuning, prompt engineering, RAG/GraphRAG, vector databases, semantic search, and agentic architectures**.
 
-My goal is to create robust, impactful technologies in generative AI, NLP, intelligent vision, and graph-based learning.
+My work combines **AI research, software engineering, and MLOps**, with technologies such as **Python, HuggingFace, Qdrant, Neo4j, FastAPI, Docker, Kubernetes, and cloud platforms**.
 
 ---
 
@@ -22,11 +22,25 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 
 ## 🧠 Expertise Areas
 
-### ✨ Artificial Intelligence & Machine Learning
-- Deep Learning: CNN, RNN, GNN, Transformers, ViT, GANs  
-- LLM fine-tuning, prompt engineering  
-- Multimodal & generative AI  
-- Interpretable AI (Grad-CAM, Captum)
+### ✨ Generative AI & LLM
+- LLM fine-tuning: LoRA, QLoRA, 4-bit quantization, HuggingFace
+- Prompt Engineering: structured prompting, instruction tuning, few-shot prompting
+- Retrieval-Augmented Generation (RAG)
+- Agentic RAG & AI Agents
+- GraphRAG & Knowledge-Augmented Generation
+- Embeddings & semantic search
+- Vector Databases: Qdrant, Chroma
+- Local LLM deployment: Ollama
+- LLM orchestration & pipelines
+- Model Context Protocol (MCP)
+- LLMOps: model serving, Docker, Kubernetes, CI/CD
+
+### 🧠 Artificial Intelligence & Machine Learning
+- Deep Learning: CNN, RNN, GNN, Transformers, Vision Transformers (ViT), GANs
+- Computer Vision & Multimodal AI
+- Machine Learning: Random Forest, classification, segmentation
+- Interpretable AI / XAI: Grad-CAM, Captum
+- PyTorch, TensorFlow, MONAI
 
 ### 📊 Data Science & Engineering
 - Feature engineering, EDA, ML pipelines  
@@ -34,62 +48,66 @@ My goal is to create robust, impactful technologies in generative AI, NLP, intel
 - Databases: **SQL, MongoDB, Neo4j, MariaDB, Cassandra**  
 - BI tools: **Power BI, Tableau, Talend, Pentaho**
 
-### 🌐 Software & Web Development
-- Python, Java, C++, Scala, R  
-- Frameworks: **Flask, Django, Spring Boot, Angular, J2EE**  
-- JavaScript, HTML/CSS, Bootstrap  
-- DevOps: **Docker, Kubernetes, CI/CD**
+### 🌐 Software Engineering & MLOps
+- Languages: Python, Java, JavaScript, C++, Scala, R, SQL
+- Backend: FastAPI, Django, Flask, Spring Boot
+- Frontend: React, Angular, HTML/CSS, Bootstrap
+- API development & microservices
+- DevOps: Docker, Kubernetes
+- CI/CD: GitHub Actions, GitLab CI
+- Cloud: AWS, Azure, GCP
+- AWS AI/ML: Amazon Bedrock, OpenSearch Vector Engine, S3
 
-### 📐 Semantic AI & Graph Intelligence
-- RDF, OWL, SKOS  
-- Graph processing & GNNs  
-- Knowledge Graphs & embeddings  
-
----
-
-## 🛠 Technical Skills
-**Languages:** Python, Java, JS, C++, SQL, Scala, R  
-**AI:** PyTorch, TensorFlow, MONAI  
-**Data:** Pandas, NumPy, Spark  
-**DevOps:** Docker, Kubernetes, GitHub Actions  
-**Web:** Django, Flask, Spring Boot  
-**Graphs:** NetworkX, Neo4j  
-**Cloud:** GCP, AWS, Azure  
+### 🕸️ Semantic AI & Knowledge Graphs
+- Knowledge Graphs & Graph Neural Networks (GNNs)
+- GraphRAG & graph-based retrieval
+- RDF, OWL, SKOS
+- Knowledge representation & semantic reasoning
+- Graph embeddings & similarity search
+- Neo4j, ArangoDB, NetworkX
+- Thesaurus alignment & semantic matching 
 
 ---
 
 ## 📚 Professional Experience
 
-### 🚀 New experience: freelance work from October to December (3 months) for a client in the United States
-
-- Mission freelance de 3 mois pour un client aux États-Unis : développement d’un système d’analyse de sentiments à partir de données textuelles.
-- Implémentation et comparaison de modèles RNN, LSTM et BERT, avec une précision maximale de 92,6 % (BERT).
-- Exploitation de Large Language Models (Mistral-7B) via zero-shot, few-shot et fine-tuning LoRA.
-- Conception d’une architecture modulaire et reproductible basée sur PyTorch et Hugging Face
-- ➡️ **https://github.com/ASRI7198/From-Classical-NLP-Models-to-Large-Language-Models-for-Sentiment-Analysis.git**
+### 🚀 Fondation des Sciences du Patrimoine (FSP) — AI Engineer (2026–2027)
+- Developing **TAC (Thésaurus Automatisé par Curation)**, an AI-powered tool for automated thesaurus curation, normalization, and structuring
+- Designing **LLM-based microservices** using RAG, prompt engineering, and fine-tuning with **LoRA/QLoRA**
+- Implementing **Agentic AI** architectures to orchestrate concept generation, curation, and thesaurus structuring
+- Developing automated **thesaurus alignment** using the **Model Context Protocol (MCP)**
+- Building **Knowledge Graph** and semantic AI components with Neo4j and ArangoDB
+- Developing full-stack services with **FastAPI + React** and integrating the OpenTheso API
+- Deploying containerized AI services using **Docker, Kubernetes, and CI/CD**
+- 🔧 Python, LLMs, RAG, GraphRAG, LoRA/QLoRA, HuggingFace, Ollama, MCP, Qdrant, Neo4j, ArangoDB, FastAPI, React, Docker, Kubernetes
+- ➡️ **TAC — Thésaurus Automatisé par Curation**
 
 ---
 
 ### 🔬 INRAE Montpellier — AI Intern (2025)
-- Designed a hybrid **GNN + CSP** method for soil artificialization detection  
-- Spatio-temporal modeling & satellite image segmentation  
-- Validation with **Choco Solver**  
-- 🔧 Python, PyTorch, GeoPandas, Java
+- Designed a hybrid **GNN + CSP** method for soil artificialization detection
+- Spatio-temporal modeling & satellite image segmentation
+- Validation with **Choco Solver**
+- Built a **Knowledge Graph and GraphRAG pipeline** to enrich context and generate explanations using LLMs
+- 🔧 Python, PyTorch, GeoPandas, Java, GNN, GraphRAG, LLM
 - ➡️ **https://github.com/ASRI7198/CSP-GNN-Analyse-et-l-explication-de-l-artificialisation-des-sols-partir-d-images-HR.git**
 
 ---
 
 ### 🩺 LaTIM & Evolucare — AI Intern (2024)
-- Developed a **3D Vision Transformer** model for medical OCT images  
-- Added interpretability tools (XAI)  
-- 🔧 PyTorch, MONAI, Captum
-- ➡️ **https://github.com/ASRI7198/Classification-d-Images-M-dicales-avec-Vision-Transformers-et-M-thodes-d-Interpr-tabilit-.git** 
+- Developed a **3D Vision Transformer** model for medical OCT images
+- Achieved an **AUC of 0.88** for anomaly detection
+- Added interpretability tools (**XAI**) using Captum and attention mechanisms
+- 🔧 Python, PyTorch, MONAI, Captum
+- ➡️ **https://github.com/ASRI7198/Classification-d-Images-M-dicales-avec-Vision-Transformers-et-M-thodes-d-Interpr-tabilit-.git**
 
 ---
 
 ### 🛒 UCD El Jadida — Web Developer Intern (2022)
-- Built a full e-commerce platform (frontend + backend)  
-- 🔧 Java EE, JSP/Servlets, Hibernate, MySQL
+- Built a full e-commerce platform (**frontend + backend**)
+- Implemented a recommendation system based on user history and promotions
+- Developed a three-tier **MVC architecture**
+- 🔧 Java EE, JSP/Servlets, Hibernate, Spring Boot, MySQL, Docker, Kubernetes, CI/CD
 - ➡️ **https://github.com/ASRI7198/Application-web-site-e-commerce.git**
 
 ---
